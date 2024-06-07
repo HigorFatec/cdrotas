@@ -9,5 +9,5 @@ e tendo também o controle total de carretas, registrando a data e horário de
 cada operação das carretas, sendo a entrada de carretas, 
 a descarga de carretas e a saída das carretas.
 
-<a href='https://www.mediafire.com/file/wwlbr96klyqhrnw/ConferenciaLogistico.apk/file'>Clique aqui</a> para fazer o download
+<a href='https://www.mediafire.com/file/wwlbr96klyqhrnw/ConferenciaLogistico.apk/file'>Clique aqui</a> para fazer o download <br>
 Para acessar o <b>PowerBI</b>, <a href="https://app.powerbi.com/view?r=eyJrIjoiNGM3MTU1Y2EtYTM0Zi00ZDAyLWEyMGQtNGMxMzhlZDllNGViIiwidCI6IjE5MDE3MzlkLTg1M2YtNDkwMS1iMTYwLTYxMDY4NWMwYzc5ZSJ9">clique aqui</a>
