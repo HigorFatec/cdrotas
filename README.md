@@ -1,6 +1,6 @@
-**Conferência Logístico**
+**Conferência Logística**
 
-Olá a todos, esse é o aplicativo de conferência logistico
+Olá a todos, esse é o aplicativo de conferência logistica
 
 O aplicativo de Conferência Logístico, tem como principal proposta 
 fazer com que tenhamos o controle total de tudo que está saindo de mercadoria, 
